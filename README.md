@@ -13,8 +13,9 @@ switch to your project folder
 
 ##Execute
 
-  cd Quick-demo
-  node app.js
+
+    cd Quick-demo
+    node app.js
 
 ##Enhance
 
