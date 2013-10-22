@@ -3,13 +3,18 @@ Quick-demo
 
 demo for build a express and socket.io in 5 minutes.
 
+##requirement
+
+ * node >= v0.8.x
+ * npm
+
 ##install
 
 switch to your project folder
 
-  git clone https://github.com/clonn/Quick-demo.git
-  cd Quick-demo
-  npm i
+    git clone https://github.com/clonn/Quick-demo.git
+    cd Quick-demo
+    npm i
 
 ##Execute
 
